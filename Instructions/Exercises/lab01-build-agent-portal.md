@@ -43,23 +43,17 @@ Before starting this exercise, ensure you have:
 
 6. After the new Microsoft Foundry experience loads, verify that the selected resource is the one provided by your instructor. In this training demonstration, we used **`hakunamatata-new`** as the resource.
 
-   The new Microsoft Foundry experience should appear similar to the following:
-
-   ![Screenshot of the new Microsoft Foundry experience showing the selected resource.](../Media/foundry-new-experience.png)
-
 > [!NOTE]
 > The resource name may vary depending on your training environment. Use the resource name provided by your instructor. 
 
 ### Create an Agent
 
-1. From the **Home** page, locate the **Build an agent** section and select **Start building**.
+1. From the **Home** page, locate the **Create an agent** section and select **Start building**.
 
-   ![Screenshot of the Build an agent section on the Microsoft Foundry Home page.](../Media/sb.png)
-
-2. In the **Create an agent** dialog box, enter a unique name for your agent. For example, use **`it-support-agent-project-<youruniquesuffix>`**, replacing `<youruniquesuffix>` with the unique suffix assigned to you.
+2. In the **Create an agent** dialog box, enter a unique name for your agent. For example, use **`it-support-agent-project-<youruniquesuffix>`**, replace `<youruniquesuffix>` with your assigned username (the part before `@`).
 
    > [!TIP]
-   > Choose a unique suffix to help distinguish your agent from those created by other learners. Remember the complete agent name, as you'll need it in the next exercise.
+   > For example, if your username is `abc1@xyz.in`, use `abc1` as your unique suffix. Choose a unique suffix to distinguish your agent from those created by other learners. Remember your complete agent name, as you'll need it in the next exercise.
 
    ![Screenshot of the Create an agent dialog box.](../Media/Create-an-agent.png)
 
